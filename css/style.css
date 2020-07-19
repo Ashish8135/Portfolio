@@ -1,0 +1,71 @@
+.myrows {
+    border: 3px solid green;
+    padding: 5px;
+}
+
+.mycols {
+    border: 3px solid red;
+}
+
+.mycontainer {
+    background-color: salmon;
+}
+
+#topheader {
+    background-color: snow;
+    border-bottom: 1px solid silver;
+}
+
+#topheader a {
+    color: #2c3e50;
+    font-size: 0.89rem;
+    font: weight 600;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+nav ul li a {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+
+/* start:footer */
+
+.full-footer {
+    background-color: #34495e;
+    /* position: absolute;
+    bottom: 0;
+    width: 100%; */
+}
+
+.top-footer p {
+    color: white;
+}
+
+.top-footer p a {
+    color: snow;
+    font-weight: 700;
+}
+
+.top-footer h3 {
+    color: white;
+}
+
+.top-footer h3 a {
+    color: white;
+}
+
+.button-footer {
+    background-color: black;
+}
+
+.button-footer p {
+    color: white;
+}
+
+
+/* end: footer */
