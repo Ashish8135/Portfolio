@@ -22,7 +22,7 @@
     font: weight 600;
 }
 
-.container-fluid {
+#bottomheader .container-fluid {
     padding-left: 0;
     padding-right: 0;
 }
@@ -117,7 +117,4 @@ nav ul li a {
 /*Now start About Page */
 .about-section{
     background-color:#e9ecef; 
-}
-.about-section .abouts h3{
-    padding-right: 10px;
 }
